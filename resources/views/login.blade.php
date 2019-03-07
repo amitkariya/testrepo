@@ -29,7 +29,7 @@
                     <div class="sign-avatar">
                         <img src="{{ URL::asset('img/company/pgsl_logo-min.jpg') }}" alt="">
                     </div>
-                    <header class="sign-title">Sign In - Changed</header>
+                    <header class="sign-title">Sign In</header>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="E-Mail or Phone"/>
                     </div>
